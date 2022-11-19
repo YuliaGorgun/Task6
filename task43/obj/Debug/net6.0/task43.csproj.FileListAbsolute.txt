@@ -1,0 +1,15 @@
+C:\Юля\c#домашки\c#дз6\task43\bin\Debug\net6.0\task43.exe
+C:\Юля\c#домашки\c#дз6\task43\bin\Debug\net6.0\task43.deps.json
+C:\Юля\c#домашки\c#дз6\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\Юля\c#домашки\c#дз6\task43\bin\Debug\net6.0\task43.dll
+C:\Юля\c#домашки\c#дз6\task43\bin\Debug\net6.0\task43.pdb
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.dll
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\refint\task43.dll
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.pdb
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\Юля\c#домашки\c#дз6\task43\obj\Debug\net6.0\ref\task43.dll
